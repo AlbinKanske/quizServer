@@ -1,0 +1,463 @@
+[
+  {
+    "quiz": [
+      {
+        "type": "alts",
+        "question": "What is the capital of France?",
+        "alts": [
+          "Paris",
+          "London",
+          "Berlin",
+          "Rome"
+        ],
+        "answer": [
+          "Paris"
+        ]
+      },
+      {
+        "type": "write",
+        "question": "What is the largest planet in our solar system?",
+        "answer": [
+          "Jupiter"
+        ]
+      }
+    ],
+    "info": {
+      "name": "Geography Quiz",
+      "password": "geo123",
+      "config": {
+        "shuffAlts": true,
+        "shuffOrder": true
+      }
+    }
+  },
+  {
+    "quiz": [
+      {
+        "type": "alts",
+        "question": "Who wrote '1984'?",
+        "alts": [
+          "George Orwell",
+          "Aldous Huxley",
+          "J.K. Rowling",
+          "F. Scott Fitzgerald"
+        ],
+        "answer": [
+          "George Orwell"
+        ]
+      },
+      {
+        "type": "alts",
+        "question": "What is the capital of Japan?",
+        "answer": [
+          "Tokyo"
+        ],
+        "alts": [
+          "Tokyo",
+          "San fransisco",
+          "St petersburg",
+          "London"
+        ]
+      }
+    ],
+    "info": {
+      "name": "Literature Quiz",
+      "password": "lit456",
+      "config": {
+        "shuffAlts": false,
+        "shuffOrder": true
+      }
+    }
+  },
+  {
+    "quiz": [
+      {
+        "type": "alts",
+        "question": "What is the capital of Norway?",
+        "alts": [
+          "Stockholm",
+          "Trondheim",
+          "Kristiandstad",
+          "Oslo"
+        ],
+        "answer": [
+          "Oslo"
+        ]
+      },
+      {
+        "type": "alts",
+        "question": "Which country has the biggest population",
+        "answer": [
+          "India"
+        ],
+        "alts": [
+          "India",
+          "United States",
+          "Russia",
+          "China"
+        ]
+      }
+    ],
+    "info": {
+      "name": "Geography Quiz 2",
+      "password": "",
+      "config": {
+        "shuffAlts": true,
+        "shuffOrder": false
+      }
+    }
+  },
+  {
+    "quiz": [
+      {
+        "type": "alts",
+        "question": "Which fruit is the best?",
+        "alts": [
+          "banana",
+          "apple",
+          "melon",
+          "pear"
+        ],
+        "answer": [
+          "apple"
+        ]
+      },
+      {
+        "type": "write",
+        "question": "Is a hot dog a sandwich?",
+        "answer": [
+          "ja"
+        ],
+        "alts": []
+      },
+      {
+        "type": "write",
+        "question": "What is your go-to movie theater snack?",
+        "answer": [
+          "popcorn"
+        ],
+        "alts": []
+      },
+      {
+        "type": "write",
+        "question": "Pizza or Tacos?",
+        "answer": [
+          "Pizza"
+        ],
+        "alts": []
+      },
+      {
+        "type": "write",
+        "question": "What is the best movie?",
+        "answer": [
+          "Lord of the rings",
+          "the Lord of the rings"
+        ],
+        "alts": []
+      },
+      {
+        "type": "alts",
+        "question": "In which continent is Paraguay in?",
+        "alts": [
+          "Africa",
+          "Asia",
+          "South America",
+          "North America"
+        ],
+        "answer": [
+          "South America"
+        ]
+      },
+      {
+        "type": "write",
+        "question": "What is the best game?",
+        "answer": [
+          "Rocket league",
+          "Minecraft",
+          "It takes two"
+        ],
+        "alts": []
+      }
+    ],
+    "info": {
+      "name": "First Quiz",
+      "password": "##first",
+      "config": {
+        "shuffAlts": true,
+        "shuffOrder": true
+      }
+    }
+  },
+  {
+    "quiz": [
+      {
+        "type": "alts",
+        "question": "What is the capital of Japan?",
+        "alts": [
+          "Tokyo",
+          "Osaka",
+          "Kyoto",
+          "Hiroshima"
+        ],
+        "answer": [
+          "Tokyo"
+        ]
+      },
+      {
+        "type": "alts",
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "alts": [
+          "China",
+          "South Korea",
+          "Japan",
+          "Thailand"
+        ],
+        "answer": [
+          "Japan"
+        ]
+      },
+      {
+        "type": "alts",
+        "question": "Which is the largest country in Africa by area?",
+        "alts": [
+          "Nigeria",
+          "Sudan",
+          "Algeria",
+          "South Africa"
+        ],
+        "answer": [
+          "Algeria"
+        ]
+      },
+      {
+        "type": "alts",
+        "question": "Which country is known for the pyramids?",
+        "alts": [
+          "Egypt",
+          "Mexico",
+          "Peru",
+          "Italy"
+        ],
+        "answer": [
+          "Egypt"
+        ]
+      },
+      {
+        "type": "alts",
+        "question": "What is the largest city in the United States by population?",
+        "alts": [
+          "Los Angeles",
+          "Chicago",
+          "New York City",
+          "Houston"
+        ],
+        "answer": [
+          "New York City"
+        ]
+      },
+      {
+        "type": "alts",
+        "question": "Which country has the most official languages?",
+        "alts": [
+          "Switzerland",
+          "India",
+          "South Africa",
+          "Canada"
+        ],
+        "answer": [
+          "South Africa"
+        ]
+      },
+      {
+        "type": "alts",
+        "question": "What is the capital of Brazil?",
+        "alts": [
+          "Sao Paulo",
+          "Rio de Janeiro",
+          "Brasilia",
+          "Manaus"
+        ],
+        "answer": [
+          "Brasilia"
+        ]
+      },
+      {
+        "type": "alts",
+        "question": "Which continent is known as the 'Dark Continent'?",
+        "alts": [
+          "Asia",
+          "Africa",
+          "Europe",
+          "North America"
+        ],
+        "answer": [
+          "Africa"
+        ]
+      },
+      {
+        "type": "alts",
+        "question": "Which country is the largest in terms of population?",
+        "alts": [
+          "India",
+          "United States",
+          "China",
+          "Indonesia"
+        ],
+        "answer": [
+          "China"
+        ]
+      },
+      {
+        "type": "alts",
+        "question": "Which river is the longest in the world?",
+        "alts": [
+          "Amazon River",
+          "Yangtze River",
+          "Mississippi River",
+          "Nile River"
+        ],
+        "answer": [
+          "Nile River"
+        ]
+      },
+      {
+        "type": "alts",
+        "question": "Which country is the birthplace of the Olympic Games?",
+        "alts": [
+          "Italy",
+          "France",
+          "Greece",
+          "United Kingdom"
+        ],
+        "answer": [
+          "Greece"
+        ]
+      },
+      {
+        "type": "alts",
+        "question": "What is the capital of Australia?",
+        "alts": [
+          "Sydney",
+          "Melbourne",
+          "Canberra",
+          "Brisbane"
+        ],
+        "answer": [
+          "Canberra"
+        ]
+      },
+      {
+        "type": "alts",
+        "question": "Which country is bordered by both the Atlantic and Mediterranean Seas?",
+        "alts": [
+          "Spain",
+          "Italy",
+          "France",
+          "Egypt"
+        ],
+        "answer": [
+          "Spain"
+        ]
+      },
+      {
+        "type": "alts",
+        "question": "Which country is famous for its fjords?",
+        "alts": [
+          "Denmark",
+          "Sweden",
+          "Norway",
+          "Finland"
+        ],
+        "answer": [
+          "Norway"
+        ]
+      },
+      {
+        "type": "alts",
+        "question": "What is the capital of Canada?",
+        "alts": [
+          "Toronto",
+          "Vancouver",
+          "Ottawa",
+          "Montreal"
+        ],
+        "answer": [
+          "Ottawa"
+        ]
+      },
+      {
+        "type": "alts",
+        "question": "Which country is the world's largest producer of coffee?",
+        "alts": [
+          "Brazil",
+          "Vietnam",
+          "Colombia",
+          "Ethiopia"
+        ],
+        "answer": [
+          "Brazil"
+        ]
+      },
+      {
+        "type": "alts",
+        "question": "What is the smallest country in the world?",
+        "alts": [
+          "Monaco",
+          "Vatican City",
+          "San Marino",
+          "Liechtenstein"
+        ],
+        "answer": [
+          "Vatican City"
+        ]
+      },
+      {
+        "type": "alts",
+        "question": "Which city is known as the 'Eternal City'?",
+        "alts": [
+          "Athens",
+          "Paris",
+          "Rome",
+          "Cairo"
+        ],
+        "answer": [
+          "Rome"
+        ]
+      },
+      {
+        "type": "alts",
+        "question": "Which is the tallest mountain in the world?",
+        "alts": [
+          "K2",
+          "Mount Kilimanjaro",
+          "Mount Everest",
+          "Mount Fuji"
+        ],
+        "answer": [
+          "Mount Everest"
+        ]
+      },
+      {
+        "type": "alts",
+        "question": "What is the capital of Russia",
+        "answer": [
+          "Moscow"
+        ],
+        "alts": [
+          "Moscow",
+          "Kyiv",
+          "St petersburg",
+          "Beijing"
+        ]
+      }
+    ],
+    "info": {
+      "name": "Geography and Names Quiz",
+      "password": "",
+      "config": {
+        "shuffAlts": true,
+        "shuffOrder": true
+      }
+    }
+  }
+]

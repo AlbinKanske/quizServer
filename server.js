@@ -1,18 +1,18 @@
 
 const express = require("express");
 const cors = require("cors");
-const https = require("https");
+//const https = require("https");
 const fs = require("fs");
 const path = require("path");
 
 const app = express();
 const port = 8085;
 
-const options = {
+/*const options = {
     key: fs.readFileSync(path.join(__dirname, "ssl", "privkey.pem")),
     cert: fs.readFileSync(path.join(__dirname, "ssl", "cert.pem")),
     ca: fs.readFileSync(path.join(__dirname, "ssl", "chain.pem"))
-}
+}*/
 
 app.use(cors());
 app.use(express.json());
@@ -66,11 +66,11 @@ app.post("/save-quiz", (req, res) => {
 
 //start the server
 
-/*app.listen(port, () => {
+app.listen(port, () => {
     console.log(`Server is running on http://localhost:${port}`);
-});*/
-
-https.createServer(options, app).listen(port, () => {
-    console.log(`console.log(server is running on https://localhost:${port})`);
 });
+
+/*https.createServer(options, app).listen(port, () => {
+    console.log(`console.log(server is running on https://localhost:${port})`);
+});*/
 
